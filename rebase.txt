@@ -6,3 +6,5 @@ rebase test five
 rebase test six
 rebase test seven
 added some fetures
+added other features
+added other features
