@@ -13,21 +13,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "shruti-vadgama-noovosoft"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shruti-vadgama-noovosoft&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/shruti-vadgama-noovosoft/git_learning_purpose.git",
+    "url": "git@github.com:shruti-vadgama-noovosoft/git_learning_purpose.git",
+<<<<<<< HEAD
     "accountId": "c8c31f13-d618-490f-86bb-ab13d91a3924"
+=======
+    "accountId": "12d41106-b359-40de-893a-b29d282d540e"
+>>>>>>> 08361e88422db01e0ea675f05105432de3dafe56
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="317srU2wwXzsDmmVyByonuQQHn1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,7 +44,11 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/shruti/git_learning_purpose",
+<<<<<<< HEAD
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/shruti/git/git_learning_purpose",
+=======
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/hensi/git_learning_purpose",
+>>>>>>> 08361e88422db01e0ea675f05105432de3dafe56
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,6 +58,19 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="git_learning_purpose" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="git_learning_purpose" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,6 +87,11 @@
       <option name="presentableId" value="Default" />
       <updated>1754886644174</updated>
       <workItem from="1754886645624" duration="1108000" />
+<<<<<<< HEAD
+      <workItem from="1754891876266" duration="1046000" />
+=======
+      <workItem from="1754892003820" duration="20000" />
+>>>>>>> 08361e88422db01e0ea675f05105432de3dafe56
     </task>
     <task id="LOCAL-00001" summary="add new text file at root directory">
       <option name="closed" value="true" />
