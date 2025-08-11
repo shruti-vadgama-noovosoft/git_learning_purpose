@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-hello 
-hey
-hello
-=======
->>>>>>> main
-
+from hd
