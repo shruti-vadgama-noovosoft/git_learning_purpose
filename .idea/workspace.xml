@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a04c7f01-4129-419a-a1ac-ad4de1d56910" name="Changes" comment="" />
+    <list default="true" id="a04c7f01-4129-419a-a1ac-ad4de1d56910" name="Changes" comment="add new text file at root directory" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,8 +65,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754886644174</updated>
-      <workItem from="1754886645624" duration="311000" />
+      <workItem from="1754886645624" duration="738000" />
     </task>
+    <task id="LOCAL-00001" summary="add new text file at root directory">
+      <option name="closed" value="true" />
+      <created>1754887051340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754887051340</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new text file at root directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new text file at root directory" />
   </component>
 </project>
