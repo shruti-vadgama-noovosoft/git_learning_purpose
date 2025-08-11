@@ -7,6 +7,15 @@
     </modules>
   </component>
 =======
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/git_learning_purpose.iml" filepath="$PROJECT_DIR$/.idea/git_learning_purpose.iml" />
+    </modules>
+  </component>
+=======
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
@@ -15,4 +24,5 @@
     </modules>
   </component>
 >>>>>>> 08361e88422db01e0ea675f05105432de3dafe56
+>>>>>>> main
 </project>
